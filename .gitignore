@@ -1,0 +1,26 @@
+# Ignore datasets and model weights
+dataset/
+data/
+models/
+*.keras
+*.h5
+*.ckpt
+*.tflite
+*.pb
+*.pth
+*.zip
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.venv/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VSCode and other editor configs
+.vscode/
+.DS_Store
