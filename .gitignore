@@ -24,3 +24,4 @@ venv/
 # VSCode and other editor configs
 .vscode/
 .DS_Store
+.python-version
