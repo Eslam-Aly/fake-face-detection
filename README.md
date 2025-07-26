@@ -7,9 +7,9 @@ This project uses deep learning and transfer learning with the **Xception** mode
 │
 ├── notebooks/
 │   └── fake_face_detector.ipynb       # Main Jupyter Notebook
-│
+├── FakeFaceDetectionReport.pdf        # Report 
 ├── requirements.txt                   # Python dependencies
-├── .gitignore
+├── .gitignore                         # gitignore file
 └── README.md                          # This file
 </code>
 
